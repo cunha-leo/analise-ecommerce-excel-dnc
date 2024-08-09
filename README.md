@@ -19,7 +19,6 @@ Este projeto foi desenvolvido como parte do curso na Escola DNC, utilizando o Ex
 
 O projeto inclui diversas visualizações, como gráficos de barras, gráficos de setores, e mapas, que ajudam a compreender melhor os dados de vendas e a origem dos clientes.
 
-![Dashboard de Vendas](./img/DashboardDeVendas.png)
 ![Orders](./assets/img/Orders.png)
 ![Products](./assets/img/Products.png)
 ![People](./assets/img/People.png)
